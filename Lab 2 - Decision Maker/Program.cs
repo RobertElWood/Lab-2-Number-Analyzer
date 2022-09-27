@@ -12,7 +12,7 @@ public class Program
         {
             //Lines 15-23: Introduces the program to user and asks for their name.
 
-            Console.WriteLine("\nHello! Welcome to the 'Totally Unnecessary Number Analyzer, or TUNA for short!\n");
+            Console.WriteLine("\nHello! Welcome to the 'Totally Unnecessary Number Analyzer,' or TUNA for short!\n");
             Console.WriteLine("Are YOU unable to tell whether a number is even or odd? Well, don't waste time blaming your elementary math teacher.\n");
             Console.WriteLine("Just use TUNA! This, you see, is the application for you.");
 
