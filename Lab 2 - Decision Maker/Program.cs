@@ -5,6 +5,7 @@ public class Program
     public static void Main()
     {
         Console.WriteLine("TESTING!!! 123 TESTING");
+        Console.WriteLine("SECOND TEST!");
         
         var response = "y";         //Global variable which acts as a trigger. When this value isn't 'y', the do while loop will exit.
         string isEven = "";         //Global variable which stores a string. String indicates whether user input is even or odd.
