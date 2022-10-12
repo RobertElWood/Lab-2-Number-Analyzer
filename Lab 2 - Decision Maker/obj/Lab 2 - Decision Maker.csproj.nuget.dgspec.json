@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\Documents\\C# Class\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker.csproj": {}
+    "C:\\Users\\berge\\OneDrive\\Desktop\\Grand Circus\\Labs\\Unit 4\\Roberts_Number_Analyzer\\Lab-2-Number-Analyzer\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\Documents\\C# Class\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker.csproj": {
+    "C:\\Users\\berge\\OneDrive\\Desktop\\Grand Circus\\Labs\\Unit 4\\Roberts_Number_Analyzer\\Lab-2-Number-Analyzer\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Documents\\C# Class\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker.csproj",
+        "projectUniqueName": "C:\\Users\\berge\\OneDrive\\Desktop\\Grand Circus\\Labs\\Unit 4\\Roberts_Number_Analyzer\\Lab-2-Number-Analyzer\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker.csproj",
         "projectName": "Lab 2 - Decision Maker",
-        "projectPath": "C:\\Users\\rober\\Documents\\C# Class\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker.csproj",
-        "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Documents\\C# Class\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker\\obj\\",
+        "projectPath": "C:\\Users\\berge\\OneDrive\\Desktop\\Grand Circus\\Labs\\Unit 4\\Roberts_Number_Analyzer\\Lab-2-Number-Analyzer\\Lab 2 - Decision Maker\\Lab 2 - Decision Maker.csproj",
+        "packagesPath": "C:\\Users\\berge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berge\\OneDrive\\Desktop\\Grand Circus\\Labs\\Unit 4\\Roberts_Number_Analyzer\\Lab-2-Number-Analyzer\\Lab 2 - Decision Maker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\berge\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
